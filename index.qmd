@@ -1,0 +1,70 @@
+---
+title: "Population Graph Dynamics I: Sampling Intensity & Structural Congruence"
+author: 
+  - name: "Rodney J. Dyer"
+    url: https://dyerlab.org 
+    affiliation: "Center for Environmental Studies<br/>Virginia Commonwealth University<br/>1000 West Cary Street<br/>Richmond Virginia 23284"
+    affiliation-url: https://ces.vcu.edu 
+    orcid_id: 0000-0003-4707-3453
+format: html
+bibliography: bibliography.bib
+abstract: |
+  This is the abstract.
+---
+
+## Introduction
+
+
+1. How can one quantify the similarity of two or more population graphs?
+2. How many loci are necessary to achieve congruence?
+
+## Methods
+
+### Population Graphs & Genetic Structure
+
+A population graph is a multilocus characterization of 
+
+### Models of Congruence
+
+*Structural:*
+
+*Distance:*
+
+*Eigen:*
+
+
+
+
+
+### Application to SNP Data
+
+
+
+
+
+
+
+## Results
+
+
+
+### Application to SNP Data
+
+
+*Structural:*
+
+*Distance:*
+
+*Eigen:*
+
+
+
+## Discussion
+
+
+
+
+
+## References
+
+
