@@ -38,7 +38,11 @@ A population graph is a multilocus characterization of
 
 ### Application to SNP Data
 
+This paper uses two existing data sets consisting of mapped single nucleotide polymorphism (SNP) loci; humans and drosophilia.  
 
+The human data set consists of the ...
+
+The drosophilia data set...
 
 
 
